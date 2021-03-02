@@ -1,4 +1,4 @@
-package ternary
+package condition
 
 func IntIf(b bool, t, f int) int {
 	if b {
