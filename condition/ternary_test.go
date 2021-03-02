@@ -1,4 +1,4 @@
-package ternary
+package condition
 
 import (
 	"testing"
